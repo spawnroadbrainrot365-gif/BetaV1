@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://local-production-817c.up.railway.app/raw/1779130917178-481719520.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spawnroadbrainrot365-gif/BetaV1/refs/heads/main/obfuscated_script-1779130883578.lua.txt"))()
